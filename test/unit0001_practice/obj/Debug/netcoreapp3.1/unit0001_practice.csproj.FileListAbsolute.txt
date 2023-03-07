@@ -1,0 +1,14 @@
+D:\【1】persional\test\unit0001_practice\bin\Debug\netcoreapp3.1\unit0001_practice.exe
+D:\【1】persional\test\unit0001_practice\bin\Debug\netcoreapp3.1\unit0001_practice.deps.json
+D:\【1】persional\test\unit0001_practice\bin\Debug\netcoreapp3.1\unit0001_practice.runtimeconfig.json
+D:\【1】persional\test\unit0001_practice\bin\Debug\netcoreapp3.1\unit0001_practice.runtimeconfig.dev.json
+D:\【1】persional\test\unit0001_practice\bin\Debug\netcoreapp3.1\unit0001_practice.dll
+D:\【1】persional\test\unit0001_practice\bin\Debug\netcoreapp3.1\unit0001_practice.pdb
+D:\【1】persional\test\unit0001_practice\obj\Debug\netcoreapp3.1\unit0001_practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\【1】persional\test\unit0001_practice\obj\Debug\netcoreapp3.1\unit0001_practice.AssemblyInfoInputs.cache
+D:\【1】persional\test\unit0001_practice\obj\Debug\netcoreapp3.1\unit0001_practice.AssemblyInfo.cs
+D:\【1】persional\test\unit0001_practice\obj\Debug\netcoreapp3.1\unit0001_practice.csproj.CoreCompileInputs.cache
+D:\【1】persional\test\unit0001_practice\obj\Debug\netcoreapp3.1\unit0001_practice.dll
+D:\【1】persional\test\unit0001_practice\obj\Debug\netcoreapp3.1\unit0001_practice.pdb
+D:\【1】persional\test\unit0001_practice\obj\Debug\netcoreapp3.1\unit0001_practice.genruntimeconfig.cache
+D:\【1】persional\test\unit0001_practice\obj\Debug\netcoreapp3.1\unit0001_practice.csproj.AssemblyReference.cache

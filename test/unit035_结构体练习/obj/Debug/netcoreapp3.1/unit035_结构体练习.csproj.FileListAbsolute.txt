@@ -1,0 +1,13 @@
+D:\【1】persional\test\unit035_结构体练习\obj\Debug\netcoreapp3.1\unit035_结构体练习.GeneratedMSBuildEditorConfig.editorconfig
+D:\【1】persional\test\unit035_结构体练习\obj\Debug\netcoreapp3.1\unit035_结构体练习.AssemblyInfoInputs.cache
+D:\【1】persional\test\unit035_结构体练习\obj\Debug\netcoreapp3.1\unit035_结构体练习.AssemblyInfo.cs
+D:\【1】persional\test\unit035_结构体练习\obj\Debug\netcoreapp3.1\unit035_结构体练习.csproj.CoreCompileInputs.cache
+D:\【1】persional\test\unit035_结构体练习\bin\Debug\netcoreapp3.1\unit035_结构体练习.exe
+D:\【1】persional\test\unit035_结构体练习\bin\Debug\netcoreapp3.1\unit035_结构体练习.deps.json
+D:\【1】persional\test\unit035_结构体练习\bin\Debug\netcoreapp3.1\unit035_结构体练习.runtimeconfig.json
+D:\【1】persional\test\unit035_结构体练习\bin\Debug\netcoreapp3.1\unit035_结构体练习.runtimeconfig.dev.json
+D:\【1】persional\test\unit035_结构体练习\bin\Debug\netcoreapp3.1\unit035_结构体练习.dll
+D:\【1】persional\test\unit035_结构体练习\bin\Debug\netcoreapp3.1\unit035_结构体练习.pdb
+D:\【1】persional\test\unit035_结构体练习\obj\Debug\netcoreapp3.1\unit035_结构体练习.dll
+D:\【1】persional\test\unit035_结构体练习\obj\Debug\netcoreapp3.1\unit035_结构体练习.pdb
+D:\【1】persional\test\unit035_结构体练习\obj\Debug\netcoreapp3.1\unit035_结构体练习.genruntimeconfig.cache

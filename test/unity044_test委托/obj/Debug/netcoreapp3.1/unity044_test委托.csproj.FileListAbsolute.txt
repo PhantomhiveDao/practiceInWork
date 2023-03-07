@@ -1,0 +1,14 @@
+D:\【1】persional\test\unity044_test委托\bin\Debug\netcoreapp3.1\unity044_test委托.exe
+D:\【1】persional\test\unity044_test委托\bin\Debug\netcoreapp3.1\unity044_test委托.deps.json
+D:\【1】persional\test\unity044_test委托\bin\Debug\netcoreapp3.1\unity044_test委托.runtimeconfig.json
+D:\【1】persional\test\unity044_test委托\bin\Debug\netcoreapp3.1\unity044_test委托.runtimeconfig.dev.json
+D:\【1】persional\test\unity044_test委托\bin\Debug\netcoreapp3.1\unity044_test委托.dll
+D:\【1】persional\test\unity044_test委托\bin\Debug\netcoreapp3.1\unity044_test委托.pdb
+D:\【1】persional\test\unity044_test委托\obj\Debug\netcoreapp3.1\unity044_test委托.GeneratedMSBuildEditorConfig.editorconfig
+D:\【1】persional\test\unity044_test委托\obj\Debug\netcoreapp3.1\unity044_test委托.AssemblyInfoInputs.cache
+D:\【1】persional\test\unity044_test委托\obj\Debug\netcoreapp3.1\unity044_test委托.AssemblyInfo.cs
+D:\【1】persional\test\unity044_test委托\obj\Debug\netcoreapp3.1\unity044_test委托.csproj.CoreCompileInputs.cache
+D:\【1】persional\test\unity044_test委托\obj\Debug\netcoreapp3.1\unity044_test委托.dll
+D:\【1】persional\test\unity044_test委托\obj\Debug\netcoreapp3.1\unity044_test委托.pdb
+D:\【1】persional\test\unity044_test委托\obj\Debug\netcoreapp3.1\unity044_test委托.genruntimeconfig.cache
+D:\【1】persional\test\unity044_test委托\obj\Debug\netcoreapp3.1\unity044_test委托.csproj.AssemblyReference.cache
